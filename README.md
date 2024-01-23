@@ -33,5 +33,7 @@ Thanks !!!
 
 ![bert ](https://github.com/PraveenPrabhat125/NLP_sentiment_analysis/assets/98007294/b00e8533-f5d9-45b2-aeec-8760ceffe4ac)
 
+Refrence: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 
 
